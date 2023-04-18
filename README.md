@@ -13,7 +13,9 @@ In this chapter, we will be taking a look at *package management*.
 
 ## Package Managers
 
-A **package manager** is a software tool that can be used to install, update, and manage software (packages) on a system. A **package** is simply a collection and files and data that make up a piece of software or library. 
+A **package manager** is a software tool that can be used to install, update,
+and manage software (packages) on a system. A **package** is simply a collection
+of files and data that make up a piece of software or library.
 
 Package managers also automatically manage *dependencies* for packages, which are other packages required for a package to run.
 
